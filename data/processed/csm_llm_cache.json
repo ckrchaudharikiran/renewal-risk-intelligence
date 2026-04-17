@@ -1,0 +1,93 @@
+{
+  "1001::3/15 acct 1001 - BritePath Solutions (sic) call. No show for the third \ntime this quarter. Their admin told me the team has been pulled into a CMS evaluation \nproject led by their CTO. Budget was cut 20% across all SaaS vendors.": {
+    "sentiment_score": -1.0,
+    "churn_flag": 1,
+    "risk_keywords": [
+      "Quota limit reached"
+    ]
+  },
+  "1002::2026-03-20 | NovaTech Industries | James O.\nExtremely tense call. They've had 4 P1 tickets in the last month, all related to the \nv3 SDK deprecation. Their engineering team spent 200+ hours on workarounds. CTO \njoined the call and asked point blank if we have a migration path. I said we do but \ncouldn't give a timeline. They mentioned Strapi and Sanity by name. Need to escalate.": {
+    "sentiment_score": -1.0,
+    "churn_flag": 1,
+    "risk_keywords": [
+      "Quota limit reached"
+    ]
+  },
+  "1004::3/28 Pinacle Media (acct 1004)\nThey're fine on the product side but the billing team is furious about the mid-cycle \nprice increase. Threatened to go to Contentful. I've offered to set up a call with \nour finance team but they haven't responded. Two missed QBRs in a row.": {
+    "sentiment_score": -1.0,
+    "churn_flag": 1,
+    "risk_keywords": [
+      "Quota limit reached"
+    ]
+  },
+  "1006::04/03 Atlas Financial\nQuarterly business review went poorly. They brought their CISO and asked about our \nSOC 2 audit timeline (we're behind). Also asked about single-tenancy options which \nwe don't offer on their current plan. They're in a regulated industry so this is a \ndealbreaker if we can't address it. Also on SDK v3.1 and hitting the deprecated \nendpoints daily.": {
+    "sentiment_score": -1.0,
+    "churn_flag": 1,
+    "risk_keywords": [
+      "Quota limit reached"
+    ]
+  },
+  "1007::4/5 - Zenith Publishing (#1007)\nRenewl conversation started. They want a 30% discount or they walk. Current ARR is \nhigh but margin is already thin. Editor performance on their 50k+ entry library is \npainful and they know it. Competitor POC with Kontent.ai is apparently already underway.\nCRO was cc'd on the last email thread which is never a good sign.": {
+    "sentiment_score": -1.0,
+    "churn_flag": 1,
+    "risk_keywords": [
+      "Quota limit reached"
+    ]
+  },
+  "1009::3/18 orion education (1009)\nThey love the product but are merging with another ed-tech company that uses WordPress.\nUnclear which platform survives. Decision expected by May. Their champion (Director \nof Content) is nervous about her own role post-merger. She's been our main advocate.": {
+    "sentiment_score": -1.0,
+    "churn_flag": 1,
+    "risk_keywords": [
+      "Quota limit reached"
+    ]
+  },
+  "1010::march 22 TerraFirma Manufacturing\nHad a call. They're interested in the new Agent OS features once it GAs. Want to be \nin the early access program. But their current implementation is a mess -- they \nnever finished the original migration from Drupal 18 months ago. Half their content \nis still on the old system. Might not renew unless we can give them a dedicated SA \nfor 2 weeks to clean it up.": {
+    "sentiment_score": -1.0,
+    "churn_flag": 1,
+    "risk_keywords": [
+      "Quota limit reached"
+    ]
+  },
+  "1011::3/26 skyline travel (1011)\nThey're expanding internationally which is great, but struggling with our locale \nmanagement. Filed 3 tickets about locale fallback behavior. On SDK v4.0 so they \nmissed the fix in v4.2. Could go either way on renewal. They asked to talk to PM.": {
+    "sentiment_score": -1.0,
+    "churn_flag": 1,
+    "risk_keywords": [
+      "Quota limit reached"
+    ]
+  },
+  "1012::April 2 - Quantum Commerce \nrenewal call scheduled for next week. They want to add 20 seats but only if we \ncan match a competing offer from builder.io at $X/seat. Currently on Growth plan. \nAPI usage is actually up 40% MoM which is good leverage for us.": {
+    "sentiment_score": -1.0,
+    "churn_flag": 1,
+    "risk_keywords": [
+      "Quota limit reached"
+    ]
+  },
+  "1013::4/4 RedLeaf Healthcare\nCompliance audit coming up. They need us to fill out a vendor security questionnaire \nby May 15 or they can't renew (company policy). I submitted the request to our \nsecurity team on 3/20 but haven't gotten a response. This is time-sensitive.": {
+    "sentiment_score": -1.0,
+    "churn_flag": 1,
+    "risk_keywords": [
+      "Quota limit reached"
+    ]
+  },
+  "1016::4/9 Northstar Logistics\naccount 1016 -- they barely use the product. 2 active users out of 15 seats. \nmost content was migrated but nobody adopted the new workflow. classic \nshelfware situation. Their IT director told me they'd rather downgrade to Starter \nthan pay full price for something they don't use. not churn per se but \nsignificant ARR contraction risk.": {
+    "sentiment_score": -1.0,
+    "churn_flag": 1,
+    "risk_keywords": [
+      "Quota limit reached"
+    ]
+  },
+  "1017::4/10 pacific rim trading (1017)\nmixed signals. usage metrics look healthy but the CSM relationship has been rocky.\nthey've requested a new CSM twice. their last NPS comment was in mandarin so i \ncouldn't read it -- need to get it translated. contract up in may.": {
+    "sentiment_score": -1.0,
+    "churn_flag": 1,
+    "risk_keywords": [
+      "Quota limit reached"
+    ]
+  },
+  "1024::04/08 beacon insurance (acct 1024)\nannual check-in. They're regulated so they move slow but steady. renewal \nisn't until Q4. No concerns, just maintaining the relationship.": {
+    "sentiment_score": -1.0,
+    "churn_flag": 1,
+    "risk_keywords": [
+      "Quota limit reached"
+    ]
+  }
+}

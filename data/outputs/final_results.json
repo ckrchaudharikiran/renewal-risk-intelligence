@@ -1,0 +1,637 @@
+[
+  {
+    "account_id": "1000",
+    "risk_score": 0.5787,
+    "risk_level": "Medium",
+    "key_signals": [
+      {
+        "low_usage_flag": 1
+      },
+      {
+        "p1_ticket_ratio": 0.2857142857142857
+      },
+      {
+        "open_ticket_flag": 1.0
+      },
+      {
+        "detractor_flag": 1.0
+      }
+    ],
+    "explanation": "Account shows distinct risk signals requiring immediate attention.",
+    "recommended_actions": [
+      "Escalate support immediately",
+      "Drive adoption workshop",
+      "Review CSM outreach; Address support escalations; Monitor usage closely"
+    ],
+    "insights": []
+  },
+  {
+    "account_id": "1001",
+    "risk_score": 0.815,
+    "risk_level": "High",
+    "key_signals": [
+      {
+        "low_usage_flag": 1
+      },
+      {
+        "p1_ticket_ratio": 0.7692307692307693
+      },
+      {
+        "open_ticket_flag": 1.0
+      },
+      {
+        "churn_flag": 1.0
+      },
+      {
+        "migration_risk_flag": 1
+      }
+    ],
+    "explanation": "Account shows distinct risk signals requiring immediate attention.",
+    "recommended_actions": [
+      "Assign migration specialist",
+      "Escalate support immediately",
+      "Drive adoption workshop",
+      "Review CSM outreach; Address support escalations; Monitor usage closely"
+    ],
+    "insights": [
+      {
+        "insight_type": "Silent Churn",
+        "description": "High NPS but low usage. Account might be churning silently."
+      },
+      {
+        "insight_type": "Migration + Support Issues",
+        "description": "Account shows migration risk compounded by open support tickets."
+      }
+    ]
+  },
+  {
+    "account_id": "1002",
+    "risk_score": 0.7682,
+    "risk_level": "High",
+    "key_signals": [
+      {
+        "low_usage_flag": 1
+      },
+      {
+        "p1_ticket_ratio": 0.35714285714285715
+      },
+      {
+        "open_ticket_flag": 1.0
+      },
+      {
+        "detractor_flag": 1.0
+      },
+      {
+        "churn_flag": 1.0
+      }
+    ],
+    "explanation": "Account shows distinct risk signals requiring immediate attention.",
+    "recommended_actions": [
+      "Escalate support immediately",
+      "Drive adoption workshop",
+      "Review CSM outreach; Address support escalations; Monitor usage closely"
+    ],
+    "insights": []
+  },
+  {
+    "account_id": "1003",
+    "risk_score": 0.4644,
+    "risk_level": "Medium",
+    "key_signals": [
+      {
+        "low_usage_flag": 1
+      },
+      {
+        "p1_ticket_ratio": 0.125
+      },
+      {
+        "open_ticket_flag": 1.0
+      }
+    ],
+    "explanation": "Account shows distinct risk signals requiring immediate attention.",
+    "recommended_actions": [
+      "Escalate support immediately",
+      "Drive adoption workshop",
+      "Review CSM outreach; Address support escalations; Monitor usage closely"
+    ],
+    "insights": [
+      {
+        "insight_type": "Silent Churn",
+        "description": "High NPS but low usage. Account might be churning silently."
+      }
+    ]
+  },
+  {
+    "account_id": "1004",
+    "risk_score": 0.7332,
+    "risk_level": "High",
+    "key_signals": [
+      {
+        "p1_ticket_ratio": 0.2857142857142857
+      },
+      {
+        "open_ticket_flag": 1.0
+      },
+      {
+        "detractor_flag": 1.0
+      },
+      {
+        "churn_flag": 1.0
+      },
+      {
+        "migration_risk_flag": 1
+      }
+    ],
+    "explanation": "Account shows distinct risk signals requiring immediate attention.",
+    "recommended_actions": [
+      "Assign migration specialist",
+      "Escalate support immediately",
+      "Review CSM outreach; Address support escalations; Monitor usage closely"
+    ],
+    "insights": [
+      {
+        "insight_type": "Migration + Support Issues",
+        "description": "Account shows migration risk compounded by open support tickets."
+      }
+    ]
+  },
+  {
+    "account_id": "1005",
+    "risk_score": 0.6182,
+    "risk_level": "Medium",
+    "key_signals": [
+      {
+        "low_usage_flag": 1
+      },
+      {
+        "p1_ticket_ratio": 0.25
+      },
+      {
+        "open_ticket_flag": 1.0
+      },
+      {
+        "detractor_flag": 1.0
+      }
+    ],
+    "explanation": "Account shows distinct risk signals requiring immediate attention.",
+    "recommended_actions": [
+      "Escalate support immediately",
+      "Drive adoption workshop",
+      "Review CSM outreach; Address support escalations; Monitor usage closely"
+    ],
+    "insights": []
+  },
+  {
+    "account_id": "1006",
+    "risk_score": 0.7845,
+    "risk_level": "High",
+    "key_signals": [
+      {
+        "low_usage_flag": 1
+      },
+      {
+        "p1_ticket_ratio": 0.5
+      },
+      {
+        "open_ticket_flag": 1.0
+      },
+      {
+        "churn_flag": 1.0
+      },
+      {
+        "migration_risk_flag": 1
+      }
+    ],
+    "explanation": "Account shows distinct risk signals requiring immediate attention.",
+    "recommended_actions": [
+      "Assign migration specialist",
+      "Escalate support immediately",
+      "Drive adoption workshop",
+      "Review CSM outreach; Address support escalations; Monitor usage closely"
+    ],
+    "insights": [
+      {
+        "insight_type": "Silent Churn",
+        "description": "High NPS but low usage. Account might be churning silently."
+      },
+      {
+        "insight_type": "Migration + Support Issues",
+        "description": "Account shows migration risk compounded by open support tickets."
+      }
+    ]
+  },
+  {
+    "account_id": "1007",
+    "risk_score": 0.5594,
+    "risk_level": "Medium",
+    "key_signals": [
+      {
+        "p1_ticket_ratio": 0.3333333333333333
+      },
+      {
+        "open_ticket_flag": 1.0
+      },
+      {
+        "churn_flag": 1.0
+      }
+    ],
+    "explanation": "Account shows distinct risk signals requiring immediate attention.",
+    "recommended_actions": [
+      "Escalate support immediately",
+      "Review CSM outreach; Address support escalations; Monitor usage closely"
+    ],
+    "insights": []
+  },
+  {
+    "account_id": "1008",
+    "risk_score": 0.4758,
+    "risk_level": "Medium",
+    "key_signals": [
+      {
+        "p1_ticket_ratio": 0.3333333333333333
+      },
+      {
+        "detractor_flag": 1.0
+      },
+      {
+        "migration_risk_flag": 1
+      }
+    ],
+    "explanation": "Account shows distinct risk signals requiring immediate attention.",
+    "recommended_actions": [
+      "Assign migration specialist",
+      "Review CSM outreach; Address support escalations; Monitor usage closely"
+    ],
+    "insights": []
+  },
+  {
+    "account_id": "1009",
+    "risk_score": 0.4934,
+    "risk_level": "Medium",
+    "key_signals": [
+      {
+        "churn_flag": 1.0
+      },
+      {
+        "migration_risk_flag": 1
+      }
+    ],
+    "explanation": "Account shows distinct risk signals requiring immediate attention.",
+    "recommended_actions": [
+      "Assign migration specialist",
+      "Review CSM outreach; Address support escalations; Monitor usage closely"
+    ],
+    "insights": []
+  },
+  {
+    "account_id": "1010",
+    "risk_score": 0.6575,
+    "risk_level": "High",
+    "key_signals": [
+      {
+        "open_ticket_flag": 1.0
+      },
+      {
+        "churn_flag": 1.0
+      },
+      {
+        "migration_risk_flag": 1
+      }
+    ],
+    "explanation": "Account shows distinct risk signals requiring immediate attention.",
+    "recommended_actions": [
+      "Assign migration specialist",
+      "Escalate support immediately",
+      "Review CSM outreach; Address support escalations; Monitor usage closely"
+    ],
+    "insights": [
+      {
+        "insight_type": "Migration + Support Issues",
+        "description": "Account shows migration risk compounded by open support tickets."
+      }
+    ]
+  },
+  {
+    "account_id": "1011",
+    "risk_score": 0.4328,
+    "risk_level": "Medium",
+    "key_signals": [
+      {
+        "open_ticket_flag": 1.0
+      },
+      {
+        "churn_flag": 1.0
+      }
+    ],
+    "explanation": "Account shows distinct risk signals requiring immediate attention.",
+    "recommended_actions": [
+      "Escalate support immediately",
+      "Review CSM outreach; Address support escalations; Monitor usage closely"
+    ],
+    "insights": []
+  },
+  {
+    "account_id": "1012",
+    "risk_score": 0.6761,
+    "risk_level": "High",
+    "key_signals": [
+      {
+        "open_ticket_flag": 1.0
+      },
+      {
+        "detractor_flag": 1.0
+      },
+      {
+        "churn_flag": 1.0
+      },
+      {
+        "migration_risk_flag": 1
+      }
+    ],
+    "explanation": "Account shows distinct risk signals requiring immediate attention.",
+    "recommended_actions": [
+      "Assign migration specialist",
+      "Escalate support immediately",
+      "Review CSM outreach; Address support escalations; Monitor usage closely"
+    ],
+    "insights": [
+      {
+        "insight_type": "Migration + Support Issues",
+        "description": "Account shows migration risk compounded by open support tickets."
+      }
+    ]
+  },
+  {
+    "account_id": "1013",
+    "risk_score": 0.4503,
+    "risk_level": "Medium",
+    "key_signals": [
+      {
+        "p1_ticket_ratio": 0.25
+      },
+      {
+        "open_ticket_flag": 1.0
+      },
+      {
+        "churn_flag": 1.0
+      }
+    ],
+    "explanation": "Account shows distinct risk signals requiring immediate attention.",
+    "recommended_actions": [
+      "Escalate support immediately",
+      "Review CSM outreach; Address support escalations; Monitor usage closely"
+    ],
+    "insights": []
+  },
+  {
+    "account_id": "1014",
+    "risk_score": 0.1973,
+    "risk_level": "Low",
+    "key_signals": [],
+    "explanation": "Account shows distinct risk signals requiring immediate attention.",
+    "recommended_actions": [
+      "Review CSM outreach; Address support escalations; Monitor usage closely"
+    ],
+    "insights": []
+  },
+  {
+    "account_id": "1015",
+    "risk_score": 0.3769,
+    "risk_level": "Medium",
+    "key_signals": [
+      {
+        "open_ticket_flag": 1.0
+      }
+    ],
+    "explanation": "Account shows distinct risk signals requiring immediate attention.",
+    "recommended_actions": [
+      "Escalate support immediately",
+      "Review CSM outreach; Address support escalations; Monitor usage closely"
+    ],
+    "insights": []
+  },
+  {
+    "account_id": "1016",
+    "risk_score": 0.4969,
+    "risk_level": "Medium",
+    "key_signals": [
+      {
+        "churn_flag": 1.0
+      },
+      {
+        "migration_risk_flag": 1
+      }
+    ],
+    "explanation": "Account shows distinct risk signals requiring immediate attention.",
+    "recommended_actions": [
+      "Assign migration specialist",
+      "Review CSM outreach; Address support escalations; Monitor usage closely"
+    ],
+    "insights": []
+  },
+  {
+    "account_id": "1017",
+    "risk_score": 0.5377,
+    "risk_level": "Medium",
+    "key_signals": [
+      {
+        "open_ticket_flag": 1.0
+      },
+      {
+        "detractor_flag": 1.0
+      },
+      {
+        "churn_flag": 1.0
+      }
+    ],
+    "explanation": "Account shows distinct risk signals requiring immediate attention.",
+    "recommended_actions": [
+      "Escalate support immediately",
+      "Review CSM outreach; Address support escalations; Monitor usage closely"
+    ],
+    "insights": []
+  },
+  {
+    "account_id": "1018",
+    "risk_score": 0.3324,
+    "risk_level": "Low",
+    "key_signals": [
+      {
+        "migration_risk_flag": 1
+      }
+    ],
+    "explanation": "Account shows distinct risk signals requiring immediate attention.",
+    "recommended_actions": [
+      "Assign migration specialist",
+      "Review CSM outreach; Address support escalations; Monitor usage closely"
+    ],
+    "insights": []
+  },
+  {
+    "account_id": "1019",
+    "risk_score": 0.3133,
+    "risk_level": "Low",
+    "key_signals": [
+      {
+        "detractor_flag": 1.0
+      }
+    ],
+    "explanation": "Account shows distinct risk signals requiring immediate attention.",
+    "recommended_actions": [
+      "Review CSM outreach; Address support escalations; Monitor usage closely"
+    ],
+    "insights": []
+  },
+  {
+    "account_id": "1020",
+    "risk_score": 0.1872,
+    "risk_level": "Low",
+    "key_signals": [],
+    "explanation": "Account shows distinct risk signals requiring immediate attention.",
+    "recommended_actions": [
+      "Review CSM outreach; Address support escalations; Monitor usage closely"
+    ],
+    "insights": []
+  },
+  {
+    "account_id": "1021",
+    "risk_score": 0.2464,
+    "risk_level": "Low",
+    "key_signals": [],
+    "explanation": "Account shows distinct risk signals requiring immediate attention.",
+    "recommended_actions": [
+      "Review CSM outreach; Address support escalations; Monitor usage closely"
+    ],
+    "insights": []
+  },
+  {
+    "account_id": "1022",
+    "risk_score": 0.1864,
+    "risk_level": "Low",
+    "key_signals": [],
+    "explanation": "Account shows distinct risk signals requiring immediate attention.",
+    "recommended_actions": [
+      "Review CSM outreach; Address support escalations; Monitor usage closely"
+    ],
+    "insights": []
+  },
+  {
+    "account_id": "1023",
+    "risk_score": 0.4906,
+    "risk_level": "Medium",
+    "key_signals": [
+      {
+        "low_usage_flag": 1
+      },
+      {
+        "p1_ticket_ratio": 0.3333333333333333
+      },
+      {
+        "migration_risk_flag": 1
+      }
+    ],
+    "explanation": "Account shows distinct risk signals requiring immediate attention.",
+    "recommended_actions": [
+      "Assign migration specialist",
+      "Drive adoption workshop",
+      "Review CSM outreach; Address support escalations; Monitor usage closely"
+    ],
+    "insights": [
+      {
+        "insight_type": "Silent Churn",
+        "description": "High NPS but low usage. Account might be churning silently."
+      }
+    ]
+  },
+  {
+    "account_id": "1024",
+    "risk_score": 0.3181,
+    "risk_level": "Low",
+    "key_signals": [
+      {
+        "churn_flag": 1.0
+      }
+    ],
+    "explanation": "Account shows distinct risk signals requiring immediate attention.",
+    "recommended_actions": [
+      "Review CSM outreach; Address support escalations; Monitor usage closely"
+    ],
+    "insights": []
+  },
+  {
+    "account_id": "1025",
+    "risk_score": 0.1703,
+    "risk_level": "Low",
+    "key_signals": [],
+    "explanation": "Account shows distinct risk signals requiring immediate attention.",
+    "recommended_actions": [
+      "Review CSM outreach; Address support escalations; Monitor usage closely"
+    ],
+    "insights": []
+  },
+  {
+    "account_id": "1026",
+    "risk_score": 0.2136,
+    "risk_level": "Low",
+    "key_signals": [],
+    "explanation": "Account shows distinct risk signals requiring immediate attention.",
+    "recommended_actions": [
+      "Review CSM outreach; Address support escalations; Monitor usage closely"
+    ],
+    "insights": []
+  },
+  {
+    "account_id": "1027",
+    "risk_score": 0.2961,
+    "risk_level": "Low",
+    "key_signals": [
+      {
+        "detractor_flag": 1.0
+      }
+    ],
+    "explanation": "Account shows distinct risk signals requiring immediate attention.",
+    "recommended_actions": [
+      "Review CSM outreach; Address support escalations; Monitor usage closely"
+    ],
+    "insights": []
+  },
+  {
+    "account_id": "1028",
+    "risk_score": 0.5432,
+    "risk_level": "Medium",
+    "key_signals": [
+      {
+        "open_ticket_flag": 1.0
+      },
+      {
+        "detractor_flag": 1.0
+      },
+      {
+        "migration_risk_flag": 1
+      }
+    ],
+    "explanation": "Account shows distinct risk signals requiring immediate attention.",
+    "recommended_actions": [
+      "Assign migration specialist",
+      "Escalate support immediately",
+      "Review CSM outreach; Address support escalations; Monitor usage closely"
+    ],
+    "insights": [
+      {
+        "insight_type": "Migration + Support Issues",
+        "description": "Account shows migration risk compounded by open support tickets."
+      }
+    ]
+  },
+  {
+    "account_id": "1029",
+    "risk_score": 0.1862,
+    "risk_level": "Low",
+    "key_signals": [],
+    "explanation": "Account shows distinct risk signals requiring immediate attention.",
+    "recommended_actions": [
+      "Review CSM outreach; Address support escalations; Monitor usage closely"
+    ],
+    "insights": []
+  }
+]
